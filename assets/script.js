@@ -24,3 +24,4 @@ function selectTopic() {
    listTopics();
    console.log('What topic should we study first?:');
    selectTopic()
+   
